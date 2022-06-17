@@ -6,7 +6,7 @@ import (
 
 	"os"
 
-	"github.com/mrfirudin/go-restful/go-checksum/checksum"
+	"github.com/mrfirudin/go-restful/checksum"
 )
 
 func main() {
